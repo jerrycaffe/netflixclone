@@ -122,3 +122,20 @@ font-size: 3rem;
     padding: 15px;
     margin-left: 18%;
 }
+.animation-card-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.tv{
+    width: 90%;
+    margin-top: -300px;
+   
+}
+video{
+
+    width: 60%;
+    margin-top: 100px;
+    margin-left: 80px;
+
+}
